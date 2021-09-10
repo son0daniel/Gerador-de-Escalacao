@@ -1,0 +1,700 @@
+12 de Octubre FC
+4 de Julho
+ABC
+AFC Wimbledon
+ASA
+AZ Alkmaar
+Accrington Stanley
+Afogados
+Água Santa
+Águia de Marabá
+Águia Negra
+Aimoré
+Ajax
+Alavés
+Alcorcón
+Aldosivi
+Alianza Petrolera
+Almería
+Altos
+Always Ready
+Amazonas
+America-RJ
+Americano
+Amorebieta
+América de Cali
+América de Pedrinhas
+América-MEX
+América-MG
+América-RN
+América-SP
+Angers
+Antofagasta
+Anápolis
+Aparecidense
+Aquidauanense
+Aragua FC
+Araguacema
+Argentinos Juniors
+Arminia Bielefeld
+Arouca
+Arsenal
+Arsenal de Sarandí
+Assisense
+Assu
+Aston Villa
+Atalanta
+Athletic Bilbao
+Athletic Club-MG
+Athletico-PR
+Atibaia
+Atlas
+Atlético Gloriense
+Atlético Huila
+Atlético Junior
+Atlético Mogi 
+Atlético Nacional
+Atlético Palmaflor
+Atlético San Luis
+Atlético Tucumán
+Atlético Venezuela
+Atlético de Madrid
+Atlético-AC
+Atlético-BA
+Atlético-CE
+Atlético-GO
+Atlético-MG
+Atlético-PB
+Audax Italiano
+Audax-SP
+Augsburg
+Aurora
+Avaí
+Azuriz
+Ação-MT
+Bacabal
+Bahia
+Bahia de Feira
+Bandeirante-SP
+Banfield
+Bangu
+Barbalha
+Barcelona
+Barcelona-SP
+Barnsley
+Barretos
+Barrow
+Batatais
+Bayer Leverkusen 
+Bayern de Munique
+Belenenses SAD
+Benfica
+Betim
+Betis
+Birmingham City
+Blackburn Rovers
+Blackpool
+Blooming
+Boa Esporte
+Boavista
+Boca Juniors
+Boca Júnior
+Bochum
+Bologna
+Bolton Wanderers
+Bolívar
+Bordeaux
+Borussia Dortmund
+Borussia Mönchengladbach
+Boston River
+Botafogo
+Botafogo-PB
+Botafogo-SP
+Bournemouth
+Bradford City
+Braga
+Bragantino
+Bragantino-PA
+Brasil de Pelotas
+Brasiliense
+Brentford
+Brest
+Brighton
+Bristol City
+Bristol Rovers
+Brusque
+Bucaramanga
+Burgos CF
+Burnley
+Burton Albion
+CEO
+CRAC
+CRB
+CSA
+CSE
+Cabofriense
+Cagliari
+Caldense
+Cambridge United
+Campinense
+Capital-DF
+Capital-TO
+Capivariano
+Carabobo FC
+Caracas
+Carajás
+Cardiff City
+Carlisle United
+Cartagena
+Cascavel CR
+Castanhal
+Catanduva
+Catanduvense
+Caucaia
+Caxias
+Ceará
+Ceilândia
+Celta
+Central
+Central Córdoba S.Estero
+Cerrito
+Cerro Largo
+Cerro Porteño
+Chapecoense
+Charlton Athletic
+Chelsea
+Cheltenham Town
+Cianorte
+Clermont
+Clíper
+Cobresal
+Coimbra
+Colchester United
+Colo-Colo
+Colorado Caieiras
+Colón
+Colônia
+Comercial-MS
+Comercial-SP
+Concórdia AC
+Confiança
+Corinthians
+Coritiba
+Coruripe
+Costa Rica-MS
+Coventry City
+Crato
+Crawley Town
+Crewe Alexandra
+Criciúma
+Cruz Azul
+Cruzeiro
+Crystal Palace
+Cuiabá
+Curicó Unido
+Cádiz
+Defensa y Justicia
+Democrata GV
+Democrata SL
+Deportes Quindío
+Deportes Tolima
+Deportivo Cali
+Deportivo Lara
+Deportivo Maldonado
+Deportivo Metropolitano
+Deportivo Pasto
+Deportivo Pereira
+Deportivo Táchira
+Derby County
+Desportiva Ferroviária
+Desportivo Aliança
+Desportivo Brasil
+Doce Mel
+Dom Bosco
+Doncaster Rovers
+Dorense
+Dourados
+EC São Bernardo
+ECUS
+Eibar
+Eintracht Frankfurt
+Elche
+Empoli
+Envigado
+Espanyol
+Esportivo
+Estoril
+Estrela do Norte
+Estudiantes
+Estudiantes de Mérida
+Everton
+Everton-CHI
+Exeter City
+FC Cascavel
+FC Groningen
+FC Juarez
+FC Twente
+FC Utrecht
+Famalicão
+Fast
+Fernandópolis
+Ferroviária
+Ferroviário
+Feyenoord
+Figueirense
+Fiorentina
+Flamengo
+Flamengo-PI
+Flamengo-SP
+Fleetwood Town
+Floresta
+Flu de Feira
+Fluminense
+Fluminense-PI
+Forest Green Rovers
+Formosa
+Fortaleza
+Fortuna Sittard
+Força e Luz
+Freiburg
+Freipaulistano
+Friburguense
+Fuenlabrada
+Fulham
+Fénix
+GAS
+Galvez
+Gama
+Gavião 
+Genoa
+Getafe
+Gil Vicente
+Gillingham
+Gimnasia
+Girona
+Globo FC
+Go Ahead Eagles
+Godoy Cruz
+Goianésia
+Goiás
+Gran Valencia
+Granada
+Greuther Fürth
+Grêmio
+Grêmio Anápolis
+Grêmio Prudente
+Grêmio Sorriso
+Guabirá
+Guadalajara
+Guaireña FC
+Guarani
+Guarani-MG
+Guarany de Sobral
+Guaraní-PAR
+Guarulhos
+Gurupi
+Harrogate Town
+Hartlepool United
+Heerenveen
+Hellas Verona
+Heracles Almelo
+Hercílio Luz
+Hertha Berlin
+Hoffenheim
+Huachipato
+Huddersfield Town
+Huesca
+Hull City
+Huracán
+Iape
+Ibiza
+Icasa
+Imperatriz
+Independente-AP
+Independente-PA
+Independente-SP
+Independiente
+Independiente Medellín
+Independiente Petrolero
+Independiente Santa Fe
+Inter de Bebedouro
+Inter de Limeira
+Internacional
+Internazionale
+Interporto
+Ipatinga
+Iporá
+Ipswich Town
+Iranduba
+Itabaiana
+Itapirense
+Ituano
+Itumbiara
+Itupiranga
+JC
+Jacuipense
+Jacyobá
+Jaguares de Córdoba
+Jaraguá-GO
+Jataiense
+Joinville
+Jorge Wilstermann
+Juazeirense
+Juventude
+Juventude Samas
+Juventus
+Juventus-SC
+Juventus-SP
+La Equidad
+La Serena
+Lagarto
+Lanús
+Las Palmas
+Lazio
+Leeds United
+Leganés
+Leicester
+Lens
+Levante
+Leyton Orient
+León
+Libertad
+Lille
+Lincoln City
+Linense
+Liverpool
+Liverpool Montevideo
+Londrina
+Lorient
+Lugo
+Luton Town
+Luverdense
+Luziânia
+Lyon
+MK Dons
+Macapá
+Macaé
+Madureira
+Mainz
+Mallorca
+Manaus
+Manchester City
+Manchester United
+Mansfield Town
+Manthiqueira
+Marcílio Dias
+Maringá
+Maruinense
+Marília
+Marítimo
+Matonense
+Mauaense
+Mauá
+Mazatlán FC
+Melipilla
+Metropolitano
+Metz
+Middlesbrough
+Milan
+Millonarios
+Millwall
+Mineros De Guayana
+Mirandés
+Mirassol
+Mogi Mirim
+Monaco
+Monagas SC
+Monte Azul
+Monterrey
+Montevideo Wanderers
+Montpellier
+Morecambe
+Moreirense
+Moto Club
+Murici
+Málaga
+NC/Paraíso
+NEC
+Nacional Potosí
+Nacional de Muriaé
+Nacional de Patos
+Nacional-AM
+Nacional-PAR
+Nacional-SP
+Nacional-URU
+Nantes
+Napoli
+Náutico
+Necaxa
+Newcastle
+Newell's Old Boys
+Newport County
+Nice
+Noroeste
+Northampton Town
+Norwich
+Nottingham Forest
+Nova Iguaçu
+Nova Mutum
+Novo
+Novo Hamburgo
+Novorizontino
+Ñublense
+O'Higgins
+Oeste
+Oldham Athletic
+Olimpia
+Olympique de Marselha
+Olímpia-SP
+Once Caldas
+Operário VG
+Operário-MS
+Operário-PR
+Oriente Petrolero
+Osasuna
+Osvaldo Cruz
+Oviedo
+Oxford United
+PSV
+Pacajus
+Pachuca
+Palestino
+Palmas
+Palmeira
+Palmeiras
+Paragominas
+Paraná
+Paris Saint-Germain
+Parnahyba
+Patriotas
+Patrocinense
+Patronato
+Paulista
+Paysandu
+Paços de Ferreira
+Pelotas
+Penapolense
+Penarol-AM
+Perilima
+Peterborough United
+Peñarol
+Picos
+Pinheiro-MA
+Pinheiros-ES
+Platense
+Plaza Colonia
+Plymouth Argyle
+Poconé
+Ponferradina
+Ponte Preta
+Port Vale
+Portimonense
+Porto
+Porto Velho
+Portsmouth
+Portuguesa
+Portuguesa Santista
+Portuguesa-RJ
+Portuguesa-VEN
+Potiguar de Mossoró
+Pouso Alegre
+Preston North End
+Primavera-SP
+Princesa do Solimões
+Progreso
+Próspera
+Puebla
+Pumas-MEX
+Queens Park Rangers
+Querétaro
+RB Brasil
+RB Leipzig
+RKC Waalwijk
+Racing Club
+Rayo Vallecano
+Reading
+Real Brasília
+Real Esppor
+Real Madrid
+Real Noroeste
+Real Potosí
+Real Santa Cruz
+Real Sociedad
+Real Tomayapo
+Reims
+Remo
+Rennes
+Rentistas
+Resende
+Retrô
+Rio Branco VN
+Rio Branco-ES
+Rio Branco-PR
+Rio Branco-SP
+Rio Claro
+Rio Preto
+Rionegro Águilas
+River Plate
+River Plate-PAR
+River Plate-URU
+River-PI
+Rochdale
+Roma
+Rosario Central
+Rotherham United
+Royal Pari FC
+SC Aymorés
+SC Cambuur
+Saint-Étienne
+Salernitana
+Salford City
+Salgueiro
+Samambaia
+Sampaio Corrêa
+Sampaio Corrêa-RJ
+Sampdoria
+San José
+San Lorenzo
+Santa Clara
+Santa Cruz
+Santa Cruz de Natal
+Santa Maria
+Santacruzense
+Santana
+Santiago Wanderers
+Santo André
+Santos
+Santos Laguna
+Santos-AP
+Sarmiento de Junín
+Sassuolo
+Scunthorpe United
+Serc
+Sergipe
+Serra
+Serranense
+Sertãozinho
+Sete de Setembro-PE
+Sevilla
+Sheffield United
+Sheffield Wednesday
+Shrewsbury Town
+Sinop
+Sobradinho
+Sol de América
+Sousa
+Southampton
+Sparta Rotterdam
+Spezia
+Sport
+Sporting
+Sporting Gijón
+Sportivo Luqueño
+Stevenage
+Stoke City
+Strasbourg
+Stuttgart
+Sud América
+Sunderland
+Sutton United
+Swansea City
+Swindon Town
+São Bento
+São Bernardo
+São Carlos
+São José-MA
+São José-RS
+São José-SP
+São Luiz
+São Mateus
+São Paulo
+São Paulo Crystal
+São Paulo-AP
+São Raimundo-AM
+São Raimundo-RR
+São-Carlense
+Taguatinga
+Talleres
+Tapajós
+Taquaritinga
+Taubaté
+Tenerife
+The Strongest
+Tigres-MEX
+Tijuana
+Tiradentes-PI
+Tocantins EC
+Tocantinópolis
+Toledo
+Toluca
+Tombense
+Tondela
+Torino
+Torque
+Tottenham
+Tranmere Rovers
+Trem
+Treze
+Troyes
+Trujillanos FC
+Três Lagoas
+Tuna Luso
+Tupi-MG
+Tupynambás
+URT
+Uberlândia
+Udinese
+Unaí 
+Union Berlin
+Unirb
+Universidad Católica
+Universidad Central
+Universidad de Chile
+União ABC
+União Luziense 
+União Mogi
+União Rondonópolis
+União Suzano
+Unión
+Unión Española
+Unión La Calera
+Valencia
+Valladolid
+Vasco
+Velo Clube
+Venezia
+Vera Cruz 
+Vila Nova
+Vilavelhense
+Villa Española
+Villa Nova-MG
+Villarreal
+Vitesse
+Vitória
+Vitória da Conquista
+Vitória de Guimarães
+Vitória-ES
+Vitória-PE
+Vizela
+Vocem
+Volta Redonda
+Votuporanguense
+Vélez Sarsfield
+Walsall
+Watford
+West Bromwich Albion
+West Ham
+Wigan Athletic
+Willem II
+Wolfsburg
+Wolverhampton
+Wycombe Wanderers
+XV de Jaú
+XV de Piracicaba
+Yaracuyanos FC
+Ypiranga-AP
+Ypiranga-RS
+Zamora
+Zaragoza
+Zulia
+Zwolle
