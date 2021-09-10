@@ -6,10 +6,10 @@ import random #Biblioteca para gerar números aleatórios
 from os import environ #Biblioteca que obtém as variáveis de ambiente
 
 #Obtenção das variáveis de ambiente
-API_Key = environ.get('API Key')
-API_Secret = environ.get('API Secret')
-Access_Token = environ.get('Access Token')
-Access_Secret = environ.get('Access Secret')
+API_Key = environ.get('API_Key')
+API_Secret = environ.get('API_Secret')
+Access_Token = environ.get('Access_Token')
+Access_Secret = environ.get('Access_Secret')
 
 #Pegando as chaves da conta @EscalacaoSFC disponível no Twitter Developer (somente para contas desenvolvedoras)
 auth = tweepy.OAuthHandler(API_Key, API_Secret)
