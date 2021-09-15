@@ -213,11 +213,8 @@ if __name__ == "__main__":
                 tweet = api.update_status(intro) #Primeiro tweet onde se apresenta os titulares do time e o treinador
                 sleep(10) #Intervalo de 10 segundos para evitar spam
                 resp = api.update_status(final, in_reply_to_status_id = tweet.id, auto_populate_reply_metadata = True) #Segundo tweet onde os suplentes são apresentados
-                #Intervalo de 30 minutos entre cada tweet
-                print("Vai dormir")
-                sleep(900)
-                print("Dormiu")
-                sleep(900) 
+                #Intervalo de 60 minutos entre cada tweet
+                sleep(3600) 
             except tweepy.TweepError as e:
                 print(e.reason) #Erro relacionado ao Twitter (excesso de caracteres ou proibição de postagem)
             except ValueError:

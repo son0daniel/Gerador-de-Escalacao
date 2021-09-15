@@ -19,3 +19,5 @@ Velloso
 Doni
 Marolla
 Silas
+Laércio
+Cejas
